@@ -101,4 +101,3 @@ loader = DataLoader(data, ...)
 
 ### Open questions
 - How can you set the corner pixel values after rotating to gray instead of black?
-"# AutoAugment-Urban" 
